@@ -1,5 +1,5 @@
 <!-- Metti la GIF in alto a destra -->
-<p align="right">
+<p align="left">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzk2bGwyNG9ja3AxeWRmdzNkbG83YTA3ZG9xMHFheng1MTBib3VzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4FGF4DVYSeS5oIx2/giphy.gif" width="150" />
 </p>
 
