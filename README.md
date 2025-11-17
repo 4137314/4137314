@@ -55,7 +55,7 @@
   </a>
 </p>
 <p align="center">  
-  <a href="https://github.com/4137314/cconf">
+  <a href="https://github.com/4137314/gdev">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=4137314&repo=gdev&theme=midnight-purple" alt="GDEV Repo" />
   </a>
 </p>
