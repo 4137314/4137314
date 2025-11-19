@@ -2,19 +2,20 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # ogni 12 ore
+    - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
+
+permissions:
+  contents: write   # permette il push
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      # Clona il repository
       - uses: actions/checkout@v3
 
-      # Genera il banner Snake
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
@@ -23,7 +24,6 @@ jobs:
             output/github-contribution-grid-snake.svg
             output/github-contribution-grid-snake-dark.svg
 
-      # Commit e push dei file generati
       - name: Commit and push
         uses: EndBug/add-and-commit@v9
         with:
