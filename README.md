@@ -45,20 +45,6 @@
 </td>
 <td width="50%" valign="top">
 
-## 🚀 GitHub Stats  
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=4137314&show_icons=true&theme=midnight-purple" alt="GitHub stats"/>  
-</p>
-<p align="center">  
-  <a href="https://github.com/4137314/holos">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=4137314&repo=holos&theme=midnight-purple" alt="HOLOS Repo" />
-  </a>
-</p>
-<p align="center">  
-  <a href="https://github.com/4137314/gdev">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=4137314&repo=gdev&theme=midnight-purple" alt="GDEV Repo" />
-  </a>
-</p>
 </td>
 </tr>
 </table>
