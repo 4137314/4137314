@@ -15,5 +15,5 @@ I am a Electronic Engeneering Student.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4137314&layout=compact&theme=tokyonight)
 
 ---
-- 🌍 My Portfolio: [4137314.github.io](https://4137314.github.io)
-- 📫 How to reach me: [Tua Email o LinkedIn]
+- 🌍 My Portfolio: [Digital Portfolio](https://4137314.github.io)
+- 📫 How to reach me: [Email](mailto:mattia.fait.science@gmail.com)
