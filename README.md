@@ -1,4 +1,4 @@
-# Hi there, I'm 4137314 👋
+# Who am I
 
 I am a Electronic Engeneering Student.
 
