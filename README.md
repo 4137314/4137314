@@ -8,7 +8,7 @@ I am a Electronic Engeneering Student.
 ### 🛠️ Tech Stack
 - **Languages:** C, Java, Lean 4, Python, C++, LaTeX, Spice, VHDL, Verilog
 - **Tools:** Neovim, Tmux, Zathura, Git, GitHub Actions, Linux
-- **Interests:** Formal Methods, Metaprogramming, Physics, Logic
+- **Interests:** Formal Methods, Metaprogramming, Physics, Logic, Photonic
 
 ### 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=4137314&show_icons=true&theme=tokyonight)
