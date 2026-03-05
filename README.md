@@ -27,9 +27,6 @@ I am an Electronic Engineering student focused on the intersection of **mathemat
 ### ⚡ Activity & Streak
 ![](https://github-readme-streak-stats.herokuapp.com/?user=4137314&theme=tokyonight&hide_border=true)
 
-### 🕒 Coding Time (WakaTime)
-![](https://github-readme-stats.vercel.app/api/wakatime?username=4137314&theme=tokyonight&layout=compact)
-
 ---
 
 ## 🛠️ Technical Taxonomy
