@@ -22,8 +22,6 @@ I am an Electronic Engineering student focused on the intersection of **mathemat
 
 ## 📊 GitHub Analytics
 
-| 📈 GitHub Stats | 🏆 Top Languages |
-
 ### ⚡ Activity & Streak
 ![](https://github-readme-streak-stats.herokuapp.com/?user=4137314&theme=tokyonight&hide_border=true)
 
