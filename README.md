@@ -12,6 +12,10 @@ I am a Electronic Engeneering Student.
 - **Tools:** Neovim, Tmux, Zathura, Git, GitHub Actions, Linux
 - **Interests:** Formal Methods, Metaprogramming, Physics, Logic, Photonic
 
+# 📊 GitHub Stats:
+![](https://nirzak-streak-stats.vercel.app/?user=4137314&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=4137314&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ---
 - 🌍 My Portfolio: [Portfolio](https://4137314.github.io)
 - 📫 How to reach me: [Email](mailto:mattia.fait.science@gmail.com)
