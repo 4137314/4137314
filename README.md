@@ -1,8 +1,8 @@
-# Mattia Fait
+# Electronic Engineering Student
 
-Electronic engineering student based in Trento, Italy. I work on digital hardware, embedded systems, formal methods, and Linux tooling.
+Based in Trento, Italy. I work on digital hardware, embedded systems, formal methods, and Linux tooling.
 
-I am open to freelance and contract work with Partita IVA, especially small engineering tasks where requirements, implementation, and verification can be handled clearly.
+Open to freelance and contract work, especially small engineering tasks with a clear scope, implementation, and verification.
 
 ## Selected work
 
